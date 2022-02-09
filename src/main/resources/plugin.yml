@@ -1,0 +1,7 @@
+name: com.github.dmillying.sampleplugin.SamplePlugin
+name: sampleplugin
+version: 1.0-SNAPSHOT
+api-version: 1.18
+author: Dmillying
+libraries:
+  - io.github.monun:kommand:2.8.1
